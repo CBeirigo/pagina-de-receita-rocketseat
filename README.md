@@ -1,2 +1,3 @@
-# pagina-de-receita-rocketseat
-Criação de uma página de receita para consolidar conhecimentos em HTML5 e CSS3
+<h1>
+<img src="logo.png">
+</h1>
